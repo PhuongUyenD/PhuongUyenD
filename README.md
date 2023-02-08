@@ -4,11 +4,11 @@ My name is Phuong Uyen Dang. I am currently a student at St. Lawrence completing
 
 Skills learned throughout my around 2 years include:
 
- • Front-End Development | JavaScript, PHP, HTML/CSS
- • Database Admin & Analysis | MySQL/SQL, Access, Excel
- • Object-Orientation | C++, C#, Java
- • Operating Systems | Windows, Linux,z/OS
- • Mainframe | COBOL, JCL, TSO/ISPF
+ • Front-End Development | JavaScript, PHP, HTML/CSS <br>
+ • Database Admin & Analysis | MySQL/SQL, Access, Excel <br>
+ • Object-Orientation | C++, C#, Java <br>
+ • Operating Systems | Windows, Linux,z/OS <br>
+ • Mainframe | COBOL, JCL, TSO/ISPF <br>
 
 <br>
 ## 📫 How to reach me: 
