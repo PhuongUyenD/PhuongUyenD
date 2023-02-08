@@ -10,8 +10,6 @@ Skills learned throughout my around 2 years include:
  • Operating Systems | Windows, Linux,z/OS <br>
  • Mainframe | COBOL, JCL, TSO/ISPF <br>
 
-<br>
-
 #### 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/phuong-uyen-dang-b92454260/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/PhuongUyenD)
