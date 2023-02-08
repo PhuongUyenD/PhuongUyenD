@@ -1,4 +1,4 @@
-### Hi there 👋👋👋
+#### Hi there 👋👋👋
 
 My name is Phuong Uyen Dang. I am currently a student at St. Lawrence completing my advanced diploma in Computer Programming & Analysis, graduating April 2024. 
 
@@ -11,7 +11,7 @@ Skills learned throughout my around 2 years include:
  • Mainframe | COBOL, JCL, TSO/ISPF <br>
 
 <br>
-## 📫 How to reach me: 
+#### 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/phuong-uyen-dang-b92454260/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/PhuongUyenD)
 
